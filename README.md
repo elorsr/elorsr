@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @elorsr
 - 👀 I’m interested in nada
-- 🌱 I’m currently learning é
-- 💞️ I’m looking to collaborate on eu
+- 🌱 I’m currently learning nada
+- 💞️ I’m looking to collaborate on I
 - 📫 How to reach me ...
 
 <!---
